@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use - مسجاتكم</title>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+max-width:900px;
+margin:40px auto;
+line-height:1.7;
+color:#333;
+}
+
+h1,h2{
+color:#111;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Terms of Use</h1>
+
+<p>These Terms of Use govern your use of the mobile application <strong>مسجاتكم</strong> developed by <strong>Mohammed Yousri</strong>. By downloading or using the application, you agree to these terms.</p>
+
+<h2>1. Use of the Application</h2>
+
+<p>The application is provided for personal, non-commercial use. You may use the application on devices that you own or control.</p>
+
+<p>You agree not to:</p>
+
+<ul>
+<li>Copy or modify the application.</li>
+<li>Attempt to reverse engineer the application.</li>
+<li>Use the application for unlawful purposes.</li>
+</ul>
+
+<h2>2. Updates</h2>
+
+<p>The developer may release updates to improve performance, add features, or fix issues. Continued use of the application after updates means you accept the updated version.</p>
+
+<h2>3. Intellectual Property</h2>
+
+<p>All content included in the application such as text, graphics, design, and logos are the property of the developer unless otherwise stated and are protected by copyright laws.</p>
+
+<h2>4. Advertising</h2>
+
+<p>The application may display advertisements through third-party advertising providers.</p>
+
+<h2>5. In-App Purchases</h2>
+
+<p>The application may offer optional in-app purchases such as a subscription that removes advertisements.</p>
+
+<p>Payments are processed through the official app store provider. Subscription renewals and cancellations are managed through your app store account.</p>
+
+<h2>6. Limitation of Liability</h2>
+
+<p>The application is provided "as is" without warranties of any kind. The developer is not responsible for any damages resulting from the use or inability to use the application.</p>
+
+<h2>7. Termination</h2>
+
+<p>The developer reserves the right to suspend or terminate access to the application if these terms are violated.</p>
+
+<h2>8. Changes to Terms</h2>
+
+<p>The developer may update these Terms of Use at any time. Updated terms will be posted on this page.</p>
+
+<h2>9. Contact</h2>
+
+<p>If you have questions about these Terms of Use, please contact:</p>
+
+<p>Email: mohdyk22@gmail.com</p>
+
+<p>Developer: Mohammed Yousri</p>
+
+</body>
+</html>
